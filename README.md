@@ -8,7 +8,7 @@ React blog that uses the Github API to create posts based on issues in a reposit
 
 To install this repository, follow these steps:
 ```
-git clone https:https://github.com/VitorHugoAntunes/Github_Blog.git
+git clone https://github.com/VitorHugoAntunes/Github_Blog.git
 cd Github_Blog-main
 npm install or yarn
 ```
